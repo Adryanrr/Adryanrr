@@ -1,4 +1,4 @@
-### OLá, eu sou o Adryan!  👋
+### Olá, eu sou o Adryan!  👋
 
 - 🔭 Atualmente estou trabalhando na minha base como desenvolvedor
 - 🤔 Procuro indicações com projetos de HTMl / CSS para me por a prova
