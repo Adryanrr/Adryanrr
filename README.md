@@ -1,30 +1,54 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<h1 align="center">Welcome:</h1>
 
-### Olá, eu sou o Adryan!  👋
+###
 
-- 🔭 Atualmente estou trabalhando na minha base como desenvolvedor
-- 🤔 Procuro indicações com projetos de HTMl / CSS para me por a prova
-- 💬 Pergunte e interaja comigo nas minhas Redes Socias
+<h2 align="left">👩‍💻  Sobre mim:</h2>
 
-<div  align="center" style="margin-bottom:100px">
- 
-<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api?username=adryanrr&show_icons=true&theme=highcontrast" />
-<img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanrr&show_icons=true&theme=highcontrast"(https:github.com/adryanrr) />
+###
 
- </div>
+<h4 align="left">Sou um estudante de Engenharia de Software apaixonado por desenvolvimento e tecnologia. Atualmente, estou focado no estudo das linguagens C/C++ enquanto continuo aprimorando minhas habilidades em JavaScript. Além disso, tenho explorado o vasto mundo do desenvolvimento em ambientes Linux, utilizando ferramentas como Docker e WSL para facilitar o processo de desenvolvimento e implantação de software.</h4>
 
-## Tecnologias que estou estudando no momento:
- 
-<div style="dispaly: inline_block"><br/>
- 
-   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    
-<div>
+###
 
-## Contatos
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryanrr/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_adryanrr)
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<h3 align="left">🛠 Linguagens:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adryanrr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/adryanrr/adryanrr/output/snake.svg" alt="Snake animation" />
+
+###
