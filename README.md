@@ -1,8 +1,8 @@
-<img width=100% bottom=50px src="https://github.com/Adryanrr/Adryanrr/assets/153025714/81ebea72-86ae-425f-9527-3ad25d4f7fc1 "/>
+<img width=100% bottom=50px src="https://github.com/Adryanrr/Adryanrr/assets/153025714/502790c3-78f1-4356-85fa-a51db0e34c40"/>
 <br>
 <br> 
 
-<h1 align="center">Welcome:</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Hello+welcome!)](https://git.io/typing-svg)
 
 ###
 
