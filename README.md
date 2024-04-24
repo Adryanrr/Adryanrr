@@ -8,11 +8,13 @@
 
 ###
 
-<h2 align="left">👩‍💻  Sobre mim:</h2>
+<h2 align="left">👩‍💻 About me:</h2>
 
 ###
 
-<h4 align="left">Sou um estudante de Engenharia de Software apaixonado por desenvolvimento e tecnologia. Atualmente, estou focado no estudo das linguagens C/C++ enquanto continuo aprimorando minhas habilidades em JavaScript. Além disso, tenho explorado o vasto mundo do desenvolvimento em ambientes Linux, utilizando ferramentas como Docker e WSL para facilitar o processo de desenvolvimento e implantação de software.</h4>
+<h4 align="left">
+I'm a Software Engineering student passionate about development and technology. Currently, I'm focused on studying C/C++ languages while continuing to improve my skills in JavaScript. Additionally, I've been exploring the vast world of development in Linux environments, using tools like Docker and WSL to facilitate the software development and deployment process.
+</h4>
 
 ###
 
@@ -29,7 +31,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens:</h3>
+<h3 align="left">🛠 Skills:</h3>
 
 ###
 
@@ -49,7 +51,7 @@
 
 ###
 
-<h3 align="left">📈  Estatisticas:</h3>
+<h3 align="left">📈  Statistics:</h3>
 
 ###
 
