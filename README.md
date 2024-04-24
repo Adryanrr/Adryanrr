@@ -1,8 +1,10 @@
-<img width=100% bottom=50px src="https://github.com/Adryanrr/Adryanrr/assets/153025714/502790c3-78f1-4356-85fa-a51db0e34c40"/>
+<div align="center">
+  <img height="190" src="https://github.com/Adryanrr/Adryanrr/assets/153025714/7ed3a61e-4fce-4539-aaf3-d6943d9eee9c"  />
+</div>
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Hello+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Hello%2C+welcome!)](https://git.io/typing-svg)
 
 ###
 
@@ -47,7 +49,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📈  Estatisticas:</h3>
 
 ###
 
