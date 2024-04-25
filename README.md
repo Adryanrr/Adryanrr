@@ -1,10 +1,12 @@
 <div align="center">
-  <img height="240" src="https://github.com/Adryanrr/Adryanrr/assets/153025714/c78c53e2-35f7-420a-8c74-a58c4250b3bb"  />
+  <img height="220" src="https://github.com/Adryanrr/Adryanrr/assets/153025714/c78c53e2-35f7-420a-8c74-a58c4250b3bb"  />
 </div>
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Hello%2C+welcome!)](https://git.io/typing-svg)
+<div>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Hello%2C+welcome!"/>
+</div>
 
 ###
 
