@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="220" src="https://github.com/Adryanrr/Adryanrr/assets/153025714/c78c53e2-35f7-420a-8c74-a58c4250b3bb"  />
-</div>
-<br>
-<br> 
-
 <div>
   <img height="70" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Hello%2C+welcome!"/>
 </div>
@@ -20,7 +14,7 @@ I'm a Software Engineering student passionate about development and technology. 
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/adryanrr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -54,11 +48,5 @@ I'm a Software Engineering student passionate about development and technology. 
 ###
 
 <h3 align="left">📈  Statistics:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adryanrr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
 
 ###
