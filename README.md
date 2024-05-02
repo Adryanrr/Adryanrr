@@ -46,7 +46,3 @@ I'm a Software Engineering student passionate about development and technology. 
 </div>
 
 ###
-
-<h3 align="left">📈  Statistics:</h3>
-
-###
