@@ -1,5 +1,5 @@
 <div>
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Hello%2C+welcome!"/>
+  <h1> Hello, Welcome! </h1>
 </div>
 
 ###
