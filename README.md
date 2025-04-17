@@ -41,5 +41,5 @@ I'm always looking for opportunities to apply my skills and enhance my knowledge
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arch,c,java,html,css,js,ts,react,nextjs,nodejs,spring,aws,docker" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=arch,c,java,html,css,js,ts,react,nextjs,nodejs,spring,docker" alt="Skills" />
 </div>
