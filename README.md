@@ -1,44 +1,53 @@
 <div align="center">
- <h1>Hello, Welcome!</h1>
+  <h1>Bem-vindo ao Meu Perfil do GitHub!</h1>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻 About me</h3>
+<h3 align="left">👩‍💻 Sobre Mim</h3>
 
 <h4 align="left">
-This is my GitHub profile, where I showcase my knowledge in various programming languages and technology tools. My educational journey reflects a continuous commitment to excellence and innovation in the development field.
+Olá, sou Adryan Ryan, desenvolvedor de software com foco contínuo em aprendizado e desenvolvimento de aplicações reais. Com experiência tanto em front-end quanto back-end, estou comprometido em criar soluções de alta qualidade e eficientes que agreguem valor a empresas e usuários.
+</h4>
 
-I'm always looking for opportunities to apply my skills and enhance my knowledge day by day.
+###
+
+<h3 align="left">🎓 Educação & Certificações</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=redhat,aws" alt="Certificações" />
+</div>
+
+###
+
+<h3 align="left">⚡ Minhas Habilidades</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,react,nextjs,nodejs,spring,python" alt="Habilidades" />
+</div>
+
+###
+
+<h3 align="left">🔧 Ferramentas & Tecnologias</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postgres" alt="Ferramentas & Tecnologias" />
+</div>
+
+###
+
+<h3 align="left">🌱 O Que Estou Trabalhando</h3>
+
+<h4 align="left">
+
+Explore o meu portfólio e confira os projetos mais recentes nos quais trabalhei! Nele, você encontrará soluções inovadoras e práticas que refletem meu compromisso com a entrega de valor e alta qualidade.
 
 </h4>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/adryanrr/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
-  </a>
-  <a href="https://discord.com/users/adryanrr" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
-  </a>
-  <a href="https://instagram.com/_adryanrr" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Tecs" />
-  </a>
-</div>
+<h3 align="left">🚀 Vamos Conectar!</h3>
 
-<h3 align="left">🎓 Education</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=redhat,aws" alt="Skills" />
-</div>
-
-###
-
-<h3 align="left">⚡ Skills</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=arch,c,java,html,css,js,ts,react,nextjs,nodejs,spring,docker" alt="Skills" />
-</div>
+<h4 align="left">
+Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato se quiser discutir algo relacionado à tecnologia ou simplesmente trocar ideias.
+</h4>
