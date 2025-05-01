@@ -31,7 +31,7 @@ Olá, sou Adryan Ryan, desenvolvedor de software com foco contínuo em aprendiza
 <h3 align="left">🔧 Ferramentas & Tecnologias</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postgres,docker" alt="Ferramentas & Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=git,arch,vscode,postgres,docker" alt="Ferramentas & Tecnologias" />
 </div>
 
 ###
