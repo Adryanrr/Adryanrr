@@ -23,7 +23,7 @@ Olá, sou Adryan Ryan, desenvolvedor de software com foco contínuo em aprendiza
 <h3 align="left">⚡ Minhas Habilidades</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,react,nextjs,nodejs,spring,python" alt="Habilidades" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,spring" alt="Habilidades" />
 </div>
 
 ###
