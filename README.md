@@ -51,5 +51,3 @@ Explore o meu portfólio e confira os projetos mais recentes nos quais trabalhei
 <h4 align="left">
 Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato se quiser discutir algo relacionado à tecnologia ou simplesmente trocar ideias.
 </h4>
-
----
