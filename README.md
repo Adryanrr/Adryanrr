@@ -14,8 +14,6 @@ Construindo aplicações web com **JavaScript, TypeScript, React, Next.js e Node
 
 </div>
 
----
-
 ## Sobre mim
 
 Sou **desenvolvedor Full-Stack e estudante de Engenharia de Software**, com foco no ecossistema **JavaScript/TypeScript**.
@@ -23,8 +21,6 @@ Sou **desenvolvedor Full-Stack e estudante de Engenharia de Software**, com foco
 Trabalho principalmente com **React, Next.js e Node.js**, desenvolvendo aplicações web e APIs. Atualmente, também venho aprofundando meus conhecimentos em **arquitetura de software, computação em nuvem, AWS e ambientes Linux**.
 
 Gosto de transformar problemas reais em software, especialmente por meio de sistemas de gestão, automações e aplicações baseadas em cenários do mundo real.
-
----
 
 ## Stack
 
@@ -46,8 +42,6 @@ Gosto de transformar problemas reais em software, especialmente por meio de sist
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code" />
 </p>
 
----
-
 ## Formação e Certificações
 
 ### Engenharia de Software
@@ -67,8 +61,6 @@ Certificações verificadas pelo [Credly](https://www.credly.com/users/adryanrr/
 ### Red Hat Academy
 
 **Program Learner** — 2024 e 2025
-
----
 
 ## Contato
 
