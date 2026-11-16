@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 30" width="105" height="30" fill="none" role="img" aria-label="credly">
+<style>.m{font-family:ui-monospace,SFMono-Regular,&quot;SF Mono&quot;,&quot;JetBrains Mono&quot;,Menlo,Consolas,monospace}.s{font-family:&quot;Space Grotesk&quot;,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif}
+.ink{fill:#E6E6E6}.ink2{fill:#B6B6B2}.mut{fill:#85857F}.acc{fill:#E6E6E6}.ok{fill:#E6E6E6}
+.rule{stroke:#30303A;stroke-width:1}
+.fade{opacity:0;animation:fade .7s ease forwards}@keyframes fade{to{opacity:1}}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.2s cubic-bezier(.6,0,.2,1) forwards}@keyframes draw{to{stroke-dashoffset:0}}
+.blink{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.pulse{animation:pulse 2.2s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.fade,.draw,.blink,.pulse{animation:none;opacity:1;stroke-dashoffset:0}}.rise{opacity:0;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style>
+<g class="rise" style="animation-delay:1.88s">
+<rect x="1" y="1" width="103" height="28" rx="14" fill="none" stroke="#30303A"/>
+<text x="16" y="19.5" class="m ink" font-size="11" letter-spacing="1.5">CREDLY  ↗</text>
+</g>
+</svg>

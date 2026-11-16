@@ -1,6 +1,6 @@
 // Gera os SVGs do README em assets/light e assets/dark. Rode: node scripts/build.mjs
 // Todo o conteúdo do perfil fica em DATA; edite lá e rode de novo.
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 
 const THEMES = {
   light: { ink: '#16150F', ink2: '#4B4A42', muted: '#807E73', line: '#CFCBBF', accent: '#16150F', ok: '#16150F' },
@@ -296,8 +296,15 @@ function certs(t) {
       text(R, y, 'm mut', 10.5, issuer, 'letter-spacing="2" text-anchor="end"') +
       `<line class="rule" x1="${L}" y1="${y + 14}" x2="${R}" y2="${y + 14}"/>`);
   });
-  return svg(t, 30 + DATA.certs.length * 36, 'Certificações', rows.join('\n'));
+  // selos embutidos (data URI): imagens externas carregariam antes do SVG e bagunçariam o layout
+  const size = 88, gap = 24, total = BADGES.length * size + (BADGES.length - 1) * gap;
+  const top = 30 + DATA.certs.length * 36 + 12;
+  const badges = BADGES.map((b, i) => `<image href="data:image/png;base64,${b}" x="${(W - total) / 2 + i * (size + gap)}" y="${top}" width="${size}" height="${size}"/>`);
+  const note = text(W / 2, top + size + 22, 'm mut', 10.5, 'verificáveis no Credly', 'letter-spacing="2" text-anchor="middle"');
+  return svg(t, top + size + 36, 'Certificações', [...rows, fade(0.6, badges.join('') + note)].join('\n'));
 }
+
+const BADGES = [1, 2, 3, 4, 5, 6].map((n) => readFileSync(new URL(`../assets/badges/b${n}.png`, import.meta.url)).toString('base64'));
 
 function timeline(t) {
   const step = 180, axisY = 96, last = DATA.timeline.length - 1;
@@ -327,6 +334,20 @@ function footer(t) {
   return svg(t, 170, 'Status atual', body.join('\n'));
 }
 
+const CHIPS = [['portfolio', 'portfólio'], ['linkedin', 'linkedin'], ['credly', 'credly'], ['npm', 'npm'], ['email', 'e-mail']];
+
+// chips do topo: SVGs próprios (clicáveis pelo <a> no README) que entram em sequência depois do cabeçalho
+function chip(t, label, i) {
+  const s = `${label.toUpperCase()}  ↗`;
+  const w = Math.round(monoWidth(s, 11, 1.5) + 32), h = 30;
+  const body = `<g class="rise" style="animation-delay:${(1.6 + i * 0.14).toFixed(2)}s">
+<rect x="1" y="1" width="${w - 2}" height="${h - 2}" rx="${(h - 2) / 2}" fill="none" stroke="${t.line}"/>
+${text(16, 19.5, 'm ink', 11, s, 'letter-spacing="1.5"')}
+</g>`;
+  const rise = '.rise{opacity:0;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}';
+  return svg(t, h, `${label}`, body).replace('viewBox="0 0 1000', `viewBox="0 0 ${w}`).replace('width="1000"', `width="${w}"`).replace('</style>', `${rise}</style>`);
+}
+
 const SECTIONS = [['s01', '01', 'whoami'], ['s02', '02', 'projetos'], ['s03', '03', 'código aberto'], ['s04', '04', 'stack'],
   ['s05', '05', 'certificações'], ['s06', '06', 'trajetória'], ['s07', '07', 'atividade']];
 
@@ -335,6 +356,7 @@ for (const [name, t] of Object.entries(THEMES)) {
   mkdirSync(dir, { recursive: true });
   const files = { header, whoami, projects, opensource, stack, certs, timeline, footer };
   for (const [file, build] of Object.entries(files)) writeFileSync(new URL(`${file}.svg`, dir), build(t));
+  CHIPS.forEach(([file, label], i) => writeFileSync(new URL(`chip-${file}.svg`, dir), chip(t, label, i)));
   for (const [file, n, title] of SECTIONS) writeFileSync(new URL(`${file}.svg`, dir), section(t, n, title));
 }
 console.log('SVGs gerados em assets/light e assets/dark');
