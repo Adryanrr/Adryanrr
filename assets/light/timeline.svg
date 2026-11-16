@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" fill="none" role="img" aria-label="Trajetória de 2022 a 2026">
+<style>.m{font-family:ui-monospace,SFMono-Regular,&quot;SF Mono&quot;,&quot;JetBrains Mono&quot;,Menlo,Consolas,monospace}.s{font-family:&quot;Space Grotesk&quot;,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif}
+.ink{fill:#16150F}.ink2{fill:#4B4A42}.mut{fill:#807E73}.acc{fill:#16150F}.ok{fill:#16150F}
+.rule{stroke:#CFCBBF;stroke-width:1}
+.fade{opacity:0;animation:fade .7s ease forwards}@keyframes fade{to{opacity:1}}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.2s cubic-bezier(.6,0,.2,1) forwards}@keyframes draw{to{stroke-dashoffset:0}}
+.blink{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.pulse{animation:pulse 2.2s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.fade,.draw,.blink,.pulse{animation:none;opacity:1;stroke-dashoffset:0}}</style>
+<line class="rule draw" x1="48" y1="96" x2="952" y2="96" style="animation-delay:0s"/>
+<g class="fade" style="animation-delay:0.3s"><text x="48" y="68" class="s ink" font-size="22" font-weight="700">2022</text><circle cx="54" cy="96" r="5" class="ink"/><text x="48" y="132" class="m ink" font-size="11" >Freelance</text><text x="48" y="152" class="m mut" font-size="11" >sistemas web para PMEs</text><text x="48" y="172" class="m mut" font-size="11" >painéis e integrações</text></g>
+<g class="fade" style="animation-delay:0.44999999999999996s"><text x="228" y="68" class="s ink" font-size="22" font-weight="700">2023</text><circle cx="234" cy="96" r="5" class="ink"/><text x="228" y="132" class="m ink" font-size="11" >Oracle Academy</text><text x="228" y="152" class="m mut" font-size="11" >Java &amp; banco de dados</text></g>
+<g class="fade" style="animation-delay:0.6s"><text x="408" y="68" class="s ink" font-size="22" font-weight="700">2024</text><circle cx="414" cy="96" r="5" class="ink"/><text x="408" y="132" class="m ink" font-size="11" >Funda a CodeSpace</text><text x="408" y="152" class="m mut" font-size="11" >Eng. Software · iCEV</text><text x="408" y="172" class="m mut" font-size="11" >Red Hat Academy</text><text x="408" y="192" class="m mut" font-size="11" >BMI · SGE</text></g>
+<g class="fade" style="animation-delay:0.75s"><text x="588" y="68" class="s ink" font-size="22" font-weight="700">2025</text><circle cx="594" cy="96" r="5" class="ink"/><text x="588" y="132" class="m ink" font-size="11" >AWS Cloud Foundations</text><text x="588" y="152" class="m mut" font-size="11" >AWS Generative AI</text><text x="588" y="172" class="m mut" font-size="11" >Mural de Preços</text><text x="588" y="192" class="m mut" font-size="11" >MyStoreLab</text></g>
+<g class="fade" style="animation-delay:0.8999999999999999s"><text x="768" y="68" class="s acc" font-size="22" font-weight="700">2026</text><circle cx="774" cy="96" r="10" class="acc pulse" opacity=".35"/><circle cx="774" cy="96" r="5" class="acc"/><text x="768" y="132" class="m ink" font-size="11" >AWS Cloud Architecting</text><text x="768" y="152" class="m mut" font-size="11" >AWS Data Engineering</text><text x="768" y="172" class="m mut" font-size="11" >Estágio · Mural</text><text x="768" y="192" class="m mut" font-size="11" >orca-cli-mcp no npm</text></g>
+<g class="fade" style="animation-delay:1.2s"><text x="952" y="68" class="m mut" font-size="10.5" letter-spacing="2" text-anchor="end">AGORA →</text></g>
+</svg>
